@@ -1,0 +1,63 @@
+🔹 Objective:
+Learn to identify, assess, and remove potentially harmful or unnecessary browser extensions to improve browser security and performance.
+
+🔧 Tools Used:
+Google Chrome
+
+Chrome Extension Manager (chrome://extensions/)
+
+📋 Extension Evaluated:
+➤ Extension Name: Volume Master
+Version: 2.4.0
+
+Size: < 1 MB
+Description: Boosts system volume up to 600%
+
+Permissions:
+✅ Read and change all your data on all websites
+
+Site Access:
+Automatically allowed on all websites
+
+Settings:
+Access to pin to toolbar, enable/disable
+
+⚠️ Risk Analysis:
+Criteria	Evaluation
+Broad Permissions?	✅ Yes — Reads and changes data on all websites
+Official Source/Popular?	✅ Yes — From Chrome Web Store
+Necessary for Productivity?	⚠️ Depends on user need
+Potential for Abuse?	✅ Yes — Can monitor or manipulate all website data
+Memory/Performance Impact?	❌ Low (< 1MB) but risk lies in access, not size
+
+✅ Actions Taken:
+Opened Chrome Extension Manager
+Reviewed permissions and description
+Checked reviews (separately from Chrome Web Store)
+Mixed user feedback — some report it stops working; few mention pop-up ads
+Identified as potentially risky due to broad permissions
+Removed the extension as it was not essential and posed privacy risks
+Restarted Chrome
+Observed slight performance improvement (faster tab switching, fewer pop-ups)
+
+🔍 Research: How Malicious Extensions Harm Users
+Data Theft: Intercept user input, cookies, saved passwords
+Redirection: Hijack search engines or add pop-up ads
+Backdoor Access: Open gateways for more malware
+Tracking: Collect browsing behavior and sell it to third parties
+
+🧠 Key Learnings / Tips:
+Always check permissions before installing extensions.
+Avoid extensions that can read/change data on all sites unless absolutely trusted.
+Regularly audit your installed extensions — remove anything unused.
+Stick to extensions with high ratings and many users.
+Disable unnecessary site access from the extension settings.
+Keep your browser updated to detect and block malicious add-ons.
+
+🔐 Password & Security Tie-in:
+Although not directly about passwords, extension risks relate to web-based password theft, especially when an extension can read login forms. Use strong, unique passwords and avoid inputting sensitive data while suspicious extensions are active.
+
+✅ Final Outcome:
+One extension reviewed and removed (Volume Master).
+Browser security improved by eliminating potential privacy risk.
+Gained hands-on awareness of managing browser extensions safely.
